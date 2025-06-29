@@ -23,35 +23,27 @@
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <br><sub>Python</sub>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-    <br><sub>NumPy</sub>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-    <br><sub>Matplotlib</sub>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-    <br><sub>Pandas</sub>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/>
-    <br><sub>Seaborn</sub>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-    <br><sub>Scikit-learn</sub>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Beautiful_Soup_Logo.png" alt="BeautifulSoup" width="40" height="40"/>
-    <br><sub>BeautifulSoup</sub>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <br><sub>Git</sub>
   </a>
 </p>
 
